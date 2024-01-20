@@ -1,0 +1,58 @@
+body {
+    background-color: lightgrey;
+}
+div.blok {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    border-radius: 16px;
+}
+div.img {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 16px;
+    position: relative;
+}
+ img {
+   
+    margin: 16px;}
+ 
+ul li{
+    display: inline-block;
+    font-size: 20px;
+}
+nav{
+    text-align: center;
+}
+p {
+    font-family: Arial;
+    text-align: justify;
+}
+h1 {
+    background-color: white;
+    border-radius: 16px;
+    font-family: Tahoma;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+}
+a {
+    display: block;
+    text-decoration: none;
+    width: 250px;
+    padding: 16px;
+    text-align: center;
+    color: grey;
+}
+h2{
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 2px solid grey;
+    border-radius: 12px;
+}
